@@ -1,7 +1,7 @@
 # Credit-Card-Management-System
 Implimentation of Credit Card Management System using C++ programming language.</br>
-One can directly on raw data using this management system.</br>
 This management system is created using Luhn's Algorithm and Linked List Data Structures.</br>
+One can directly on raw data (csv file) using this management system.</br>
 
 ## Credit Card Management System
 Description of commands:
